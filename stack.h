@@ -1,4 +1,4 @@
-#include "D:\qyc\Dev-Cpp\Vector\Vector.h"
+#include "../../vector.h"
 
 template <typename T> class Stack : public Vector<T> {
 public:
